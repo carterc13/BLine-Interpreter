@@ -1,3 +1,13 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.project.sourcePaths": [
+        "src/main/java"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.format.settings.url": ".vscode/java-formatter.xml",
+    "[java]": {
+        "editor.insertSpaces": false
+    }
 }
